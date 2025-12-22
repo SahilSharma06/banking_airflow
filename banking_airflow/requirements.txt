@@ -1,1 +1,7 @@
 apache-airflow-providers-snowflake
+snowflake-connector-python
+apache-airflow-providers-common-sql
+pandas
+pyarrow
+dbt-snowflake
+apache-airflow-providers-amazon
